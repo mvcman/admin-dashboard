@@ -1,3 +1,8 @@
+.home {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+    padding: 10px;
+}
 .homeWidgets {
     display: flex;
     margin: 10px;

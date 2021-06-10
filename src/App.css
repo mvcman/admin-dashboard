@@ -4,6 +4,6 @@
 
 .other {
     flex: 4;
-    padding: 10px;
-    overflow-y: auto;
+    /* padding: 10px; */
+    /* overflow-y: auto; */
 }
